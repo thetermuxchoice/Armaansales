@@ -12,6 +12,38 @@
 /* ==========================================================================
    Start of custom Webflow CSS
    ========================================================================== */
+   ::placeholder {
+    color: white;
+    font-size: 13px;
+    
+  }
+
+   .ph-center {
+    height: 100px;
+  }
+  .ph-center::-webkit-input-placeholder {
+    text-align: center;
+    line-height: 100px;/* Centrado vertical */
+  }
+
+   input#fname {
+    height: 60px;
+    background-color: #2F2F22;
+    border: black;
+    width: 221px;
+}
+
+   .center2{
+    display: grid;
+    justify-content: center;
+  }
+
+   .center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .w-commerce-commercecartwrapper {
   display: inline-block;
   position: relative;
