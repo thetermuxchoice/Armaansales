@@ -17,7 +17,6 @@
     font-size: 13px;
     
   }
-
    .ph-center {
     height: 100px;
   }
@@ -36,6 +35,8 @@
    .center2{
     display: grid;
     justify-content: center;
+    position: relative;
+    left: 47px;
   }
 
    .center {
