@@ -4262,6 +4262,7 @@ figcaption {
   grid-template-columns: 1fr auto;
   -ms-grid-rows: auto;
   grid-template-rows: auto;
+  align-items: start;
 }
 
 .plans-card-top-content {
