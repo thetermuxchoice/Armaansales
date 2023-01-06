@@ -12,6 +12,12 @@
 /* ==========================================================================
    Start of custom Webflow CSS
    ========================================================================== */
+
+   .title {
+    position: relative;
+    text-align: center;
+    margin: auto;
+}
    .card.text{
     display: grid;
     justify-content: center;
