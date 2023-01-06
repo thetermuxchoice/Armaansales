@@ -13,6 +13,12 @@
    Start of custom Webflow CSS
    ========================================================================== */
 
+   .cent{
+    position: relative;
+    text-align: center;
+   }
+
+
    .title {
     position: relative;
     text-align: center;
