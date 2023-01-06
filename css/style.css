@@ -2965,6 +2965,9 @@ figcaption {
   min-width: 8.625rem;
 }
 
+/* ==========================================================================
+   Start of custom Webflow CSS
+   ========================================================================== */
 .hero-image {
   position: absolute;
   left: 0%;
@@ -2972,10 +2975,10 @@ figcaption {
   z-index: 1;
   width: 100%;
   height: 80%;
-  background-image: url("../images/laptop.png");
+  background-image: url("../images/pc home.png");
   background-position: 0px 0px, 50% 0%;
   background-size: auto, contain;
-  background-repeat: repeat, no-repeat;
+  background-repeat:no-repeat;
 }
 
 .hero-image.hero-image-right-center {
