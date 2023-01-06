@@ -13,6 +13,12 @@
    Start of custom Webflow CSS
    ========================================================================== */
 
+
+   img#w-node-_3be37cbb-746e-7f07-df13-d4b26f2552c1-aeffd90c4 {
+    width: 41px;
+    height: 52px;
+}
+
    .cent{
     position: relative;
     text-align: center;
@@ -3798,14 +3804,14 @@ figcaption {
 }
 
 .card-icon {
-  width: 2.25rem;
+  width: 2.15rem;
   height: 2.25rem;
-  border-radius: 50%;
+  border-radius: 0%;
 }
 
 .card-icon.card-icon-borderless {
   width: 2rem;
-  height: 2rem;
+  height: 3rem;
   border-radius: 0%;
   -o-object-fit: contain;
   object-fit: contain;
