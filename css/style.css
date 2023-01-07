@@ -12,7 +12,17 @@
 /* ==========================================================================
    Start of custom Webflow CSS
    ========================================================================== */
-
+   div#w-node-_8a985de3-3cd3-fc07-e7bb-a9163c4de7b6-aeffd90c {
+    display: grid;
+    justify-content: center;
+    position: relative;
+    left: 48px;
+}
+  .logof{
+      display: inline-block;
+      width: auto;
+      max-width: 80%;
+  }
 
    img#w-node-_3be37cbb-746e-7f07-df13-d4b26f2552c1-aeffd90c4 {
     width: 41px;
