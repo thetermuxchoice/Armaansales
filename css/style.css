@@ -12,11 +12,14 @@
 /* ==========================================================================
    Start of custom Webflow CSS
    ========================================================================== */
+
    div#w-node-_8a985de3-3cd3-fc07-e7bb-a9163c4de7b6-aeffd90c {
     display: grid;
     justify-content: center;
     position: relative;
     left: 48px;
+    text-align: center;
+    margin:0px auto;
 }
   .logof{
       display: inline-block;
@@ -2893,8 +2896,8 @@ figcaption {
 }
 
 .heading.heading-large {
-  font-size: 2.6rem;
-  text-align: left;
+  font-size: 2.0rem;
+
 }
 .des {
   text-align: center;
